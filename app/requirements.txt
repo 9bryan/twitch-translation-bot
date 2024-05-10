@@ -1,0 +1,6 @@
+python-dotenv==1.0.1
+torch==2.3.0
+transformers==4.40.1
+twitchio==2.9.1
+sentencepiece==0.2.0
+protobuf==5.26.1
